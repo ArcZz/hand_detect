@@ -1,0 +1,9 @@
+﻿  main.cpp
+g:\material\dip\hand_detect\hand_detect\main.cpp(64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+g:\material\dip\hand_detect\hand_detect\main.cpp(66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+g:\material\dip\hand_detect\hand_detect\main.cpp(67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+g:\material\dip\hand_detect\hand_detect\main.cpp(68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+g:\material\dip\hand_detect\hand_detect\main.cpp(231): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\material\dip\hand_detect\hand_detect\main.cpp(263): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  hand_detect.vcxproj -> G:\Material\DIP\hand_detect\x64\Debug\hand_detect.exe
+  hand_detect.vcxproj -> G:\Material\DIP\hand_detect\x64\Debug\hand_detect.pdb (Full PDB)
